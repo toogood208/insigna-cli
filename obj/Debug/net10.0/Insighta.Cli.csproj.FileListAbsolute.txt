@@ -1,0 +1,15 @@
+C:\Users\O.S\source\repos\insighta-cli-repo\bin\Debug\net10.0\Insighta.Cli.exe
+C:\Users\O.S\source\repos\insighta-cli-repo\bin\Debug\net10.0\Insighta.Cli.deps.json
+C:\Users\O.S\source\repos\insighta-cli-repo\bin\Debug\net10.0\Insighta.Cli.runtimeconfig.json
+C:\Users\O.S\source\repos\insighta-cli-repo\bin\Debug\net10.0\Insighta.Cli.dll
+C:\Users\O.S\source\repos\insighta-cli-repo\bin\Debug\net10.0\Insighta.Cli.pdb
+C:\Users\O.S\source\repos\insighta-cli-repo\obj\Debug\net10.0\Insighta.Cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\O.S\source\repos\insighta-cli-repo\obj\Debug\net10.0\Insighta.Cli.AssemblyInfoInputs.cache
+C:\Users\O.S\source\repos\insighta-cli-repo\obj\Debug\net10.0\Insighta.Cli.AssemblyInfo.cs
+C:\Users\O.S\source\repos\insighta-cli-repo\obj\Debug\net10.0\Insighta.Cli.csproj.CoreCompileInputs.cache
+C:\Users\O.S\source\repos\insighta-cli-repo\obj\Debug\net10.0\Insighta.Cli.dll
+C:\Users\O.S\source\repos\insighta-cli-repo\obj\Debug\net10.0\refint\Insighta.Cli.dll
+C:\Users\O.S\source\repos\insighta-cli-repo\obj\Debug\net10.0\Insighta.Cli.pdb
+C:\Users\O.S\source\repos\insighta-cli-repo\obj\Debug\net10.0\Insighta.Cli.genruntimeconfig.cache
+C:\Users\O.S\source\repos\insighta-cli-repo\obj\Debug\net10.0\ref\Insighta.Cli.dll
+C:\Users\O.S\source\repos\insighta-cli-repo\obj\Debug\net10.0\Insighta.Cli.sourcelink.json
